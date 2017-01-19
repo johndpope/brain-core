@@ -1,4 +1,4 @@
-# P-Brain.ai - Voice Controlled Personal Assistant
+# Brain AI - Intelligent Personal Assistant Platform
 
 ## Install
 
